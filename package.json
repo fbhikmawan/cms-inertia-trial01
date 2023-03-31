@@ -5,8 +5,10 @@
         "build": "vite build"
     },
     "devDependencies": {
+        "@erbelion/vite-plugin-laravel-purgecss": "^0.1.4",
         "axios": "^1.1.2",
         "laravel-vite-plugin": "^0.7.2",
-        "vite": "^4.0.0"
+        "vite": "^4.0.0",
+        "vite-plugin-compression": "^0.5.1"
     }
 }
