@@ -45,7 +45,7 @@
         <script src="{{ asset('plugins/admin-resources/jquery.vectormap/maps/jquery-jvectormap-world-mill-en.js') }}"></script>
 
         <!-- App js -->
-        <script src="{{ asset('js/app.min.js') }}"></script>
+        <script src="{{ asset('js/app-saas.min.js') }}"></script>
 
         <!-- Dashboard App js -->
         <script src="{{ asset('js/pages/demo.dashboard.js') }}"></script>
