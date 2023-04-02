@@ -21,8 +21,8 @@
         <!-- Scripts -->
         <link href="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.6.4.js" rel="application/javascript" crossorigin="anonymous">
         <script src="{{ asset('js/hyper-config.js') }}"></script>
+        @routes
         @vite([
-            'resources/sass/app.scss',
             'resources/js/app.js',
             "=resources/js/Pages/{$page['component']}.vue"])
         @inertiaHead
