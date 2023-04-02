@@ -476,19 +476,19 @@ defineProps({
                         <div class="collapse" id="sidebarDashboards">
                             <ul class="side-nav-second-level">
                                 <li>
-                                    <a href="javascript: void(0);" onclick="contentUpdate('sidebarDashboards', 'analytics')">Analytics</a>
+                                    <a href="dashboard-analytics.html">Analytics</a>
                                 </li>
                                 <li>
-                                    <a href="javascript: void(0);" onclick="contentUpdate('sidebarDashboards', 'ecommerce')">Ecommerce</a>
+                                    <a href="index.html">Ecommerce</a>
                                 </li>
                                 <li>
-                                    <a href="javascript: void(0);" onclick="contentUpdate('sidebarDashboards', 'projects')">Projects</a>
+                                    <a href="dashboard-projects.html">Projects</a>
                                 </li>
                                 <li>
-                                    <a href="javascript: void(0);" onclick="contentUpdate('sidebarDashboards', 'crm')">CRM</a>
+                                    <a href="dashboard-crm.html">CRM</a>
                                 </li>
                                 <li>
-                                    <a href="javascript: void(0);" onclick="contentUpdate('sidebarDashboards', 'ewallet')">E-Wallet</a>
+                                    <a href="dashboard-wallet.html">E-Wallet</a>
                                 </li>
                             </ul>
                         </div>
