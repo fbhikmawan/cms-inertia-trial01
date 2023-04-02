@@ -27,5 +27,10 @@ export default defineConfig({
         viteCompression({
             algorithm: 'gzip'
         }),
-    ]
+    ],
+    server: {
+        hmr: {
+            host: 'localhost',
+        },
+    }
 });
